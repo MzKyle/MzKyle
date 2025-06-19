@@ -11,4 +11,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/MzKyle/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=MzKyle.
