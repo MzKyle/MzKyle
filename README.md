@@ -1,18 +1,6 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" height="225px" />
-  </picture>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-  <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="mzkyle.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-博客-8c36db" /></a>&emsp;
     <picture>
@@ -21,5 +9,8 @@
       <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     </picture>
   </div>
+
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
 
 </div>
