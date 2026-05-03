@@ -64,4 +64,10 @@ I keep documenting the pitfalls, tuning notes, and deployment lessons in my [Tec
 #### 📡 Let's Connect
 If you are building on robotics development, machine vision, embedded control, or the ROS 2 ecosystem, feel free to reach out. I am always happy to exchange ideas, debug real-world issues, and build useful things with like-minded peers.
 
+<div align="center">
+
+📧 19862681939@163.com | 🐧 QQ: 2972689924 | 💬 WeChat: Deck-mag
+
+</div>
+
 May we all roam far and wide in the fields we care about.
